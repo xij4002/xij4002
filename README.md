@@ -68,6 +68,6 @@ My research interests center on developing **statistical and machine learning me
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
 </p>  
 
-I love **dance (K-pop, Jazz, Heels)**, **cosplay**, ✈️ exploring the world through travel, and 🎭 creative expression outside the lab. 
+I love dance (K-pop, Jazz, Heels), cosplay, ✈️ exploring the world through travel, and 🎭 creative expression outside the lab. 
 
 ---
