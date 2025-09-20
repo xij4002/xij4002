@@ -11,8 +11,10 @@
 Hi! I’m **Xiao “Sylvie” Jin** — a **biostatistician and computational genomics researcher**.  
 - 🎓 M.S. in **Biostatistics & Data Science**, Weill Cornell Medicine  
 - 🎓 B.S. in **Statistics**, University of British Columbia  
-- 🔬 Currently **Postgraduate Associate at Yale School of Medicine**  
-- 💡 Passionate about combining **statistics, deep learning, and bioinformatics** to tackle big problems in **cancer genomics, precision medicine, and causal inference**.  
+
+My long-term goal is to advance methodological innovation at the interface of **AI, statistical science, and biomedicine**. I aim to create computational frameworks that combine the flexibility of modern machine learning with the rigor of statistics to address the challenges of high-dimensional biomedical data.  
+
+Through a PhD, I plan to apply these approaches to pressing questions in **genetics, cancer prevention, precision medicine, and clinical trials**. Ultimately, I aspire to a research career that bridges methodology with real-world biomedical applications, contributing to better patient care and improved public health outcomes worldwide.  
 
 ---
 
@@ -23,37 +25,51 @@ Hi! I’m **Xiao “Sylvie” Jin** — a **biostatistician and computational ge
 ![Causal](https://img.shields.io/badge/-Causal%20Inference-32CD32?style=for-the-badge&logo=theconversation&logoColor=white)  
 ![Cancer](https://img.shields.io/badge/-Cancer%20Genomics-FFD700?style=for-the-badge&logo=databricks&logoColor=black)  
 
-- ⚙️ **AI-Augmented Variant Discovery** — large-scale pipelines for cancer WGS (10+ trillion bases processed).  
-- 🧠 **Structure-Informed Transformers** — deep learning models with biological network constraints for omics prediction.  
-- 📊 **Bayesian PCA + Group Lasso** — supervised dimensionality reduction and imputation with structured sparsity.  
-- 🎯 **Causal Inference under Noise** — simulation frameworks for g-computation with covariate measurement error.  
+My research interests center on developing **statistical and machine learning methods** for high-dimensional biomedical data. I am particularly interested in applications to **genomics, cancer biomarker discovery, Bayesian modeling, and causal inference**, with the broader goal of enabling precision medicine.  
 
 ---
 
 ## 🛠️ Skills  
 
 ### Programming & Tools  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Nextflow](https://img.shields.io/badge/Nextflow-0f0f0f?style=flat&logo=apacheairflow&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextflow-0f0f0f?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>  
+
+---
 
 ### Methods & Domains  
-📈 Generalized Linear Models (GLMs), Mixed Effects Models  
-⏳ Survival Analysis, Causal Inference, G-Computation  
-🧬 RNA-seq, GWAS, Cancer Genomics Pipelines  
-🤖 Deep Learning (Transformers, GNN, PASNet)  
+<p align="left">
+  <img src="https://img.shields.io/badge/GLMs-4B8BBE?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Survival%20Analysis-228B22?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bayesian%20Modeling-800080?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Causal%20Inference-20B2AA?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genomics-FFD700?style=for-the-badge&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/RNA--seq-4169E1?style=for-the-badge&logo=biomolecule&logoColor=white" />
+  <img src="https://img.shields.io/badge/GWAS-9932CC?style=for-the-badge&logo=genome&logoColor=white" />
+</p>  
 
 ---
 
 ## 🌟 Fun Side of Me  
 
-<img src="https://media.giphy.com/media/26n79wH6HbY3FnaJW/giphy.gif" width="160" align="left">  
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="160" align="center">  
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="160" align="right">  
+<p align="center">
+  <!-- Dance -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <!-- Travel -->
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+  <!-- Cosplay -->
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+</p>  
 
-I love **dance (K-pop, Jazz, Heels)**, ✈️ traveling across the world, and 🎭 exploring creative expression outside the lab.  
+I love **dance (K-pop, Jazz, Heels)**, **cosplay**, ✈️ exploring the world through travel, and 🎭 creative expression outside the lab. 
 
 ---
